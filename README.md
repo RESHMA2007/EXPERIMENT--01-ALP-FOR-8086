@@ -82,18 +82,28 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 
 ## Output  
- 
+ <img width="1920" height="1080" alt="Screenshot 2025-08-19 142603" src="https://github.com/user-attachments/assets/6dcf52ee-3214-4c8b-971c-4171666c8531" />
+
 ## Subtraction   of 8 bit numbers  ALP 
  
-## Output  
+## Output
+<img width="1920" height="1080" alt="Screenshot 2025-08-19 142905" src="https://github.com/user-attachments/assets/564319f2-b481-423b-a645-9cd905bfd4e6" />
+
 ## Multiplication alp 
  ## Output  
 
+<img width="1920" height="1080" alt="Screenshot 2025-08-19 143052" src="https://github.com/user-attachments/assets/9bb9fe93-024d-410e-bc1d-1bdd989bfba5" />
 
 ## Division alp 
 
 ## Output  
+<img width="1920" height="1080" alt="Screenshot 2025-08-19 143216" src="https://github.com/user-attachments/assets/b06fad69-50cf-40c8-9cc7-c62e7bdc6f04" />
+##Programs for logical operations
+##AND
 
+##Output
+<img width="1920" height="1080" alt="Screenshot 2025-08-19 143356" src="https://github.com/user-attachments/assets/46a2fcfc-1440-49de-a812-b8ad490578c9" />
+##
 
 ## Result :
  
