@@ -124,8 +124,8 @@ HLT
 
 ## Output  
 <img width="1920" height="1080" alt="Screenshot 2025-08-19 143216" src="https://github.com/user-attachments/assets/b06fad69-50cf-40c8-9cc7-c62e7bdc6f04" />
-**##Programs for logical operations
-##AND**
+##Programs for logical operations
+##AND
 MOV AL, 53H;
 
 MOV BL, 24H;
